@@ -1,0 +1,15 @@
+# Compiled binary
+doorman
+
+# Coverage files
+coverage.out
+coverage.html
+
+# OS files
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
